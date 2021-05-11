@@ -1,1 +1,1 @@
-print("Welcome to fullstack")
+print("Welcome to fullstask project")
